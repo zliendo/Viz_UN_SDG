@@ -9,5 +9,5 @@ Each goal has several targets and indicators that are quantifiable metrics. 169 
 * Aggregated Overall Performance
 * Projects and Programs
 
-Final Presentation:   [209 Final Presentation.pdf] (209 Final Presentation.pdf)   
+Final Presentation:   [209 Final Presentation.pdf](209 Final Presentation.pdf)   
 Viz in Tableau: https://public.tableau.com/shared/PRKTHNDWZ?:display_count=yes   
