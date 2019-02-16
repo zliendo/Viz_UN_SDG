@@ -12,4 +12,4 @@ Each goal has several targets and indicators that are quantifiable metrics. 169 
 Final Presentation:   [209 Final Presentation.pdf](209%20Final%20Presentation.pdf)   
 Interactive Viz in Tableau: https://public.tableau.com/shared/PRKTHNDWZ?:display_count=yes   
 
-![UN SDG dashboar](SDG_UN_dashboard.png.png)
+![UN SDG dashboar](SDG_UN_dashboard.png)
