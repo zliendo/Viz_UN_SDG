@@ -23,4 +23,7 @@ My contribution to this group project was:
 * Full heatmap 
 * Navigation across different views
 
-![UN SDG dashboar](SDG_UN_dashboard.png)
+![UN SDG dashboard](SDG_UN_dashboard.png)
+
+
+![UN SDG heatmap](full_heatmap.png)
