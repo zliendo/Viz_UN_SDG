@@ -4,7 +4,9 @@
 This Project was for UC Bekeley MIDS w209 Class on Data Visualizations. 
 
 The SDG Goals are an agreement by all UN member nations to improve quality of life worldwide by measurable metrics in 17 Goals.
-Each goal has several targets and indicators that are quantifiable metrics. 169 total indicators
+Each goal has several targets and indicators that are quantifiable metrics. 169 total indicators 
+   
+![SDG goals](SDG%20goals.png)
 
 ### Our Project
 User: Individuals interested in contribution to meeting SDGs and international aid   
