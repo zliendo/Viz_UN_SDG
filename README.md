@@ -28,5 +28,5 @@ My contribution to this group project was:
 ![UN SDG dashboard](SDG_UN_dashboard.png)   
 
 
-## heatmap
+## Heatmap
 ![UN SDG heatmap](full_heatmap.png)
